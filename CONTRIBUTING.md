@@ -1,66 +1,46 @@
 # Contributing
 
-Thank you for your interest in contributing to the **Enterprise Operating Model** repository.
+Thank you for your interest in contributing to this repository.
 
-This repository defines organizational structures that support strategy execution, governance, and transformation initiatives.
+This project is part of the **Transformation Operating Framework**, a collection of frameworks and documentation focused on aligning strategy, governance, transformation initiatives, and execution across complex organizations.
 
-It is part of the broader **Transformation Operating System** framework, which connects strategy, governance, transformation patterns, and program execution across organizations.
-
-Framework overview:  
-https://github.com/somerwalker/transformation-operating-system
-
----
-
-## Purpose of This Repository
-
-The goal of this repository is to document practical operating model structures used to support complex initiatives.
-
-Topics include:
-
-- organizational operating models
-- leadership decision structures
-- governance and communication rhythms
-- role definitions
-- operating model adaptations for smaller organizations
-
-The materials are designed to be practical and adaptable across industries.
-
----
-
-## Ways to Contribute
-
-Contributions are welcome in several forms:
-
-- improving documentation clarity
-- proposing alternative operating model structures
-- adding real-world examples
-- expanding templates
-- suggesting improvements for SMB adaptations
+Master framework repository:  
+https://github.com/somerwalker/transformation-operating-framework
 
 ---
 
 ## Contribution Guidelines
 
-Please ensure contributions:
+Contributions that improve the clarity and usefulness of the documentation are welcome.
 
-- remain practical and implementation-focused
-- avoid unnecessary theoretical language
-- maintain clear alignment with the broader Transformation Operating System framework
-- remain applicable across multiple industries and organizational sizes
+Examples include:
 
----
+- documentation improvements
+- diagram improvements
+- additional examples or explanations
+- corrections or clarifications
+- formatting or readability improvements
 
-## Submitting Changes
-
-1. Fork the repository
-2. Create a branch for your change
-3. Commit your updates
-4. Submit a pull request
-
-Please include a short description explaining the purpose of the change.
+Contributions should focus on improving documentation rather than modifying the core framework structure.
 
 ---
 
-## Questions or Suggestions
+## Intellectual Property
 
-If you have questions or suggestions, feel free to open an issue in the repository.
+By submitting a contribution to this repository, you agree that your contribution may be incorporated into the project documentation.
+
+All core methodology, frameworks, and associated intellectual property remain the property of the project author.
+
+Submission of a contribution does not grant rights to reproduce, commercialize, or redistribute the methodology outside the scope of this repository without written permission from the author.
+
+---
+
+## How to Contribute
+
+1. Fork the repository  
+2. Create a branch for your change  
+3. Submit a pull request with a clear explanation of the update  
+
+---
+
+Thank you for helping improve the clarity and usefulness of the Transformation Operating Framework.
